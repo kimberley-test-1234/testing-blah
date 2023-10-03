@@ -1,0 +1,3 @@
+config:
+  helm-kubernetes-python32132132:k8sNamespace: nginx-ingress
+  pulumi:template: helm-kubernetes-python
